@@ -10,7 +10,7 @@ Debian kurulumundan hemen sonra daha hiçbir şey yüklemeden debloat işlemini 
 
 Debloat işleminin en kolay yöntemi kopyalayıp yapıştırma yöntemi.
 
-Bunun için yukarıda kullandığınız masaüstü ortamını seçin ve oradaki kodları terminale girin.
+Bunun için yukarıdaki .sh dosyaları arasından kullandığınız masaüstü ortamını seçin ve oradaki kodları terminale girin.
 
 İşlem bittikten sonra bilgisayarınızı yeniden başlatmanız gerekmektedir.
 
