@@ -21,7 +21,7 @@ Bunun için yukarıdaki .sh dosyaları arasından kullandığınız masaüstü o
 Eğer terminal ile kurmak istiyorsanız ilk önce aşağıdaki komutu girin.
 
 ```
-git clone https://github.com/KaptanLingu/debian-debloater.git && cd debian-debloater && chmod +x *.sh
+sudo apt install git && git clone https://github.com/KaptanLingu/debian-debloater.git && cd debian-debloater && chmod +x *.sh
 ```
 
 Son olarak kendi dağıtımınıza göre .sh komutunu girin. Mesela GNOME kullananlar `./gnome.sh`, LXDE kullananlar `./lxde.sh` komutunu kullanmalılar.
